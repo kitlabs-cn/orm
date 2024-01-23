@@ -26,7 +26,7 @@
         "doctrine/cache": "^1.12.1 || ^2.1.1",
         "doctrine/collections": "^1.5 || ^2.1",
         "doctrine/common": "^3.0.3",
-        "kitlabs/dbal": "3.6.x-dev",
+        "kitlabs/dbal": "3.6.77",
         "doctrine/deprecations": "^0.5.3 || ^1",
         "doctrine/event-manager": "^1.2 || ^2",
         "doctrine/inflector": "^1.4 || ^2.0",
