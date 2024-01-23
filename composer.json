@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/orm",
+    "name": "kitlabs/orm",
     "type": "library",
     "description": "Object-Relational-Mapper for PHP",
     "keywords": ["orm", "database"],
@@ -26,7 +26,7 @@
         "doctrine/cache": "^1.12.1 || ^2.1.1",
         "doctrine/collections": "^1.5 || ^2.1",
         "doctrine/common": "^3.0.3",
-        "doctrine/dbal": "^2.13.1 || ^3.2",
+        "kitlabs/dbal": "3.6.x-dev",
         "doctrine/deprecations": "^0.5.3 || ^1",
         "doctrine/event-manager": "^1.2 || ^2",
         "doctrine/inflector": "^1.4 || ^2.0",
